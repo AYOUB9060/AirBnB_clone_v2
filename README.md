@@ -74,5 +74,4 @@ Some commands support alternative syntax, such as `Class.command()`.
 
 ---
 
-Replace the placeholders (e.g., "Task 1: ...") with the descriptions of each task you provided earlier. This README.md file is structured to provide a clear overview of your project's tasks, their descriptions, and how to use the project. You can further customize it as needed for your specific project requirements.
 
